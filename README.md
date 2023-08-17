@@ -4,8 +4,6 @@ La realización de un Crud utilizando spring boot con thymeleaf
 Descripción del Software de Gestión de Inventario y Ventas
 !!!Recordar que lo primero es configurar la conexión a la base de datos, con sus propias crendenciales. img.png !!!Los datos para poblar la base de datos se encuentran aquí. img_1.png
 
-![portfolio_app](https://github.com/ricardogomez99/proyectoCrudEstudiantes/assets/92341478/dad646a6-a525-45e1-88bb-6331eb2919e0)
-
 
 El Software de Gestión de Inventario y Ventas desarrollado para ALKOSTO es una solución completa que permite almacenar y gestionar el inventario de productos en su almacén. Este software ofrece un conjunto de funcionalidades y cumple con los siguientes requisitos:
 
